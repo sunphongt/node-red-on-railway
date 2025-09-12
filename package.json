@@ -8,8 +8,9 @@
     "start": "node node_modules/node-red/red.js -p $PORT -s settings.js --userDir /data"
   },
   "dependencies": {
-    "node-red": "^4.0.0"
+    "node-red": "^4.0.0",
     "node-red-dashboard": "^3.6.5"
   }
 }
+
 
